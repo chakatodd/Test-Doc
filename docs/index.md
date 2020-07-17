@@ -1,4 +1,4 @@
-# foo
+# Repeated title?
 Test
 
 Let's add a swift example.
