@@ -14,3 +14,5 @@ serve(customer: { customersInLine.remove(at: 0) } )
 Excerpt From: Apple Inc. “The Swift Programming Language (Swift 5.3).” Apple Books. 
 
 A link to [structs](structs.md)
+
+Hello!
