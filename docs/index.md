@@ -1,4 +1,5 @@
 # Repeated title?
+# Bar
 Test
 
 Let's add a swift example.
