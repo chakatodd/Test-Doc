@@ -1,4 +1,4 @@
-# testdoc
+# foo
 Test
 
 Let's add a swift example.
