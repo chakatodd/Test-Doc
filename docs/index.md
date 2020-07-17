@@ -1,3 +1,7 @@
+---
+title: A Title!
+---
+
 # Repeated title?
 # Bar
 Test
