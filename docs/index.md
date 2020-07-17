@@ -12,3 +12,5 @@ serve(customer: { customersInLine.remove(at: 0) } )
 // Prints "Now serving Alex!”
 ```
 Excerpt From: Apple Inc. “The Swift Programming Language (Swift 5.3).” Apple Books. 
+
+A link to [structs](structs.md)
